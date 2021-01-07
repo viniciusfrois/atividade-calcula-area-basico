@@ -1,4 +1,4 @@
-<h2 align="center"> AtividadeCalculaArea  </h2>
+<h2 align="center">:blue_book: AtividadeCalculaArea</h2>
 <p align="center">Atividade Academica, resolvida por mim</p>
 
 <h2 align="center"> Questão Proposta: </h2>
