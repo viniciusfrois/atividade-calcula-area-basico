@@ -32,7 +32,7 @@ public class Atividade6 {
 		quadrado = b * b;
 		retangulo = a * b;
 		
-		//saidas
+		//saidas formatadas
 		System.out.printf("TRIANGULO: %.3f%n", triangulo);
 		System.out.printf("CIRCULO: %.3f%n", circulo);
 		System.out.printf("TRAPEZIO: %.3f%n", trapezio);
