@@ -12,10 +12,12 @@ import java.util.Scanner;
 public class Atividade6 {
 
 	public static void main(String[] args) {
+		//variaveis
 		Locale.setDefault(Locale.US);
 		Scanner teclado = new Scanner (System.in);
-		
 		double a,b,c,triangulo,circulo,trapezio,quadrado,retangulo;
+		
+		//entradas e saidas
 		System.out.println("Informe o valor de A:");
 		a = teclado.nextDouble();
 		System.out.println("Informe o valor de B:");
@@ -23,12 +25,14 @@ public class Atividade6 {
 		System.out.println("Informe o valor de C:");
 		c = teclado.nextDouble();
 		
+		//calculo
 		triangulo = a * c / 2.00;
 		circulo = 3.14159 * Math.pow(c, 2);
 		trapezio = (a+b) / 2.0 * c;
 		quadrado = b * b;
 		retangulo = a * b;
 		
+		//resultado na tela
 		System.out.printf("TRIANGULO: %.3f%n", triangulo);
 		System.out.printf("CIRCULO: %.3f%n", circulo);
 		System.out.printf("TRAPEZIO: %.3f%n", trapezio);
