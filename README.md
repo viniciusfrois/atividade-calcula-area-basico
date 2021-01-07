@@ -17,7 +17,7 @@ public class Atividade6 {
 		Scanner teclado = new Scanner (System.in);
 		double a,b,c,triangulo,circulo,trapezio,quadrado,retangulo;
 		
-		//entradas e saidas
+		//entradas
 		System.out.println("Informe o valor de A:");
 		a = teclado.nextDouble();
 		System.out.println("Informe o valor de B:");
@@ -32,7 +32,7 @@ public class Atividade6 {
 		quadrado = b * b;
 		retangulo = a * b;
 		
-		//resultado na tela
+		//saidas
 		System.out.printf("TRIANGULO: %.3f%n", triangulo);
 		System.out.printf("CIRCULO: %.3f%n", circulo);
 		System.out.printf("TRAPEZIO: %.3f%n", trapezio);
