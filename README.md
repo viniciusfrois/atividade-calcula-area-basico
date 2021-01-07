@@ -1,5 +1,5 @@
 <h2 align="center"> AtividadeCalculaArea  </h2>
-<p align="center">Calcular Área Triangulo, Circulo, Trapezio, Quadrado, Retangulo. </p>
+<p align="center">Atividade Academica, resolvida por mim</p>
 
 <h2 align="center"> Questão Proposta: </h2>
 <p align="center"><image src="https://github.com/viniciusfrois/AtividadeCalculaArea/blob/main/Atividade6.JPG?raw=true"></p>
